@@ -1,12 +1,13 @@
 body {
     background-color: black;
     color: azure;
+    font-family: "Savate", sans-serif;
 }
 
-body {
-    background-color:aqua;
-    color:azure;
-    font-family: "Embed code", sans-serif;
+h1{
+    font-size: 30px;
+}
 
-
+p{
+    font-size: 20px;
 }
