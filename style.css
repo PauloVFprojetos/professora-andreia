@@ -2,8 +2,15 @@ body {
     background-color: black;
     color: azure;
     font-family: "Savate", sans-serif;
+    margin: 0px;
 }
 
+header{
+    border-bottom: dotted 7px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 49px;
+    color: rgb(228, 126, 42);
+}
 h1{
     font-size: 30px;
 }
